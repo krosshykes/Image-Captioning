@@ -1,11 +1,2 @@
 # Data
 Images/
-
-# Features
-*.joblib
-
-# Models
-*.h5
-
-# Vocabulary
-*.npy
